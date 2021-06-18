@@ -40,7 +40,6 @@ d. When a function is invoked as a constructor function using the new keyword, t
 5. Why do we need super() in an extended class?
  to call the parent's constructor method and gets access to the parent's properties and method
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
-
 ## Instructions
 
 ### Task 1: Project Set Up
